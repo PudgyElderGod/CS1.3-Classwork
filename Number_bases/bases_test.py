@@ -1,5 +1,3 @@
-#!python
-
 from bases import decode, encode, convert
 import unittest
 
